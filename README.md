@@ -5,7 +5,7 @@
 ## Introduction
 Products from __wheat__ are available almost everywhere. Looking at various products such as __bread__ and other food items, we see that most of them are made with some component of wheat. Therefore, we could see how __ubiquitous__ the presence of wheat is in our nutrition. 
 
-<img src = "https://github.com/suhasmaddali/Images/blob/main/hello-i-m-nik-AC_mtXehWzo-unsplash.jpg" width = "450" height = "350" /> <img src = "https://github.com/suhasmaddali/Images/blob/main/ales-krivec-QnNqGoCnBg0-unsplash.jpg" width = "450" height = "350"/>
+<img src = "https://github.com/sankethkaruturi/Images/blob/9e1e318d71495ad7ba153288963be209ed1740be/Project%20Thumbnails/wheat_image.jpg" width = "450" height = "350" /> <img src = "https://github.com/sankethkaruturi/Images/blob/9e1e318d71495ad7ba153288963be209ed1740be/Project%20Thumbnails/wheat_product.jpg" width = "450" height = "350"/>
 
 ## Challenges
 When producing wheat, however, there might be various diseases attached to them. There could be diseases such as [Stripe Rust](https://smallgrains.wsu.edu/disease-resources/foliar-fungal-diseases/stripe-rust/) that affects the growth of wheat. As a result, the produce for that particular field is reduced to a large extent. 
